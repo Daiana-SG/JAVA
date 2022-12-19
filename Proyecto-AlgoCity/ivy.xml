@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="tp0-java-algo3"/>
+    <dependencies>
+
+        <dependency org="com.puppycrawl.tools" name="checkstyle" rev="5.5"/>
+        <dependency org="org.mockito" name="mockito-all" rev="1.9.0"/>
+        <dependency org="junit" name="junit" rev="4.10"/>
+        <dependency org="net.sourceforge.cobertura" name="cobertura" rev="1.9.4.1"/>
+
+    </dependencies>
+</ivy-module>
